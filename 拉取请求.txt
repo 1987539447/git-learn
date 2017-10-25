@@ -1,0 +1,6 @@
+#
+pull request 拉取请求：请求项目维护者review merge 代码
+#
+合并前可继续修改bug提交代码
+#
+发起 pull request，添加合并备注，支持markdown
